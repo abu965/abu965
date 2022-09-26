@@ -1,17 +1,20 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
 
 <h1 align="center">Hi 👋, I'm Abdulla</h1>
 <h3 align="center">High-energy student currently enrolled in MSc of Data Science, Digital Business & Artificial Intelligence in (GISMA Potsdam),</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/abu965/abu965/edit/main/README.md")>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ySpxjJmsq9gsw/giphy.gif?cid=ecf05e47v7ad3x67wufw2zvsxvpxgirxk4ndy3w4e5wsgk1m&rid=giphy.gif&ct=g">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abu965" alt="abu965" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on **Pneumonia Detection using Deep Learning**
+
 - 🌱 I’m currently learning **Frameworks, Deep Learning methods, Regression and Classification algorithms.**
 
-- 📫 How to reach me **abdulla.muradov960@gmail.com**a
+- 👯 I’m looking to collaborate on **NLP Fake news classification**
+
+- 📫 How to reach me **abdulla.muradov960@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abumrd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abumrd/" height="30" width="40" /></a>
